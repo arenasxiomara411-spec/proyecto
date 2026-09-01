@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Gestor de Ideas</title>
+</head>
+
+<body>
+
+  <h1> Gestor de Ideas</h1>
+
+  <p>Este es nuestro gestor de ideas de Sara y Xiomara.</p>
+
+  <hr>
+
+  <h2>Agregar una idea</h2>
+
+  <input type="text" id="idea" placeholder="Escribe una idea">
+
+  <button onclick="agregarIdea()">Agregar</button>
+
+  <h2>Mis ideas</h2>
+
+  <ul id="lista">
+  </ul>
+
+  <hr>
+
+  <a href="tarea1">← Volver a la portada</a>
+
+  <script>
+    function agregarIdea()
+      let idea = document.getElementById("idea").value;
+
+      if (idea != "") {
+        let nuevaIdea = document.createElement("li");
+
+        nuevaIdea.textContent = idea;
+
+        document.getElementById("lista").appendChild(nuevaIdea);
+
+        document.getElementById("idea").value = "";
+      }
+    }
+  </script>
+
+</body>
+</html>

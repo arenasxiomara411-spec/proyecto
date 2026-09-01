@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title> nuestra galeria Clase 3</title>
+</head>
+<body>
+
+  <h1>Mi galería de imágenes</h1>
+
+  <figure>
+    
+    <img src="https://i.pinimg.com/1200x/cc/5f/1a/cc5f1abd63c158e33b4451b730aa8f67.jpg" alt="un perrito en el espacio">
+    <figcaption>un perrito en el espacio.</figcaption>
+  </figure>
+
+  <figure>
+    <img src="https://i.pinimg.com/1200x/ea/a1/f3/eaa1f3921b5aa1bac076c4b81aad5714.jpg" alt="mar y playa">
+    <figcaption>mar y playa.</figcaption>
+  </figure>
+
+  <figure>
+    <img src="https://i.pinimg.com/736x/7a/cb/96/7acb961dacc6324b7ca4f52d1f41e36d.jpg" alt="un hamter con sus amigos">
+    <figcaption>junta de hamsters.</figcaption>
+  </figure>
+

@@ -1,0 +1,30 @@
+<body> 
+  <header> 
+    <h1>Botella Térmica</h1> 
+    <p>Tu bebida a la temperatura perfecta</p> 
+  </header> 
+ 
+  <nav> 
+    <ul> 
+      <li><a href="tarea1">Inicio</a></li> 
+      <li><a href="clase03">Características</a></li> 
+    </ul> 
+  </nav> 
+ 
+  <main> 
+    <section id="inicio"> 
+      <h2>Bienvenido</h2> 
+      <p>Descubre nuestra botella térmica, ideal para mantener tus bebidas frías o calientes durante horas.</p> 
+    </section> 
+ 
+    <section id="servicios"> 
+      <h2>Características</h2> 
+      <article><h3>Mantiene la temperatura</h3></article> 
+      <article><h3>Diseño moderno y resistente</h3></article> 
+    </section> 
+  </main> 
+ 
+  <footer> 
+    <p>© 2026 Botella Térmica</p> 
+  </footer> 
+</body>

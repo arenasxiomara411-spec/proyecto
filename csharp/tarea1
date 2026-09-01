@@ -1,0 +1,27 @@
+<!DOCTYPE html> 
+<html lang="es"> 
+<head> 
+  <meta charset="UTF-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <title>Ejercicios · Herramientas de Programación I</title> 
+</head> 
+<body> 
+  <h1>Ejercicios de Sara y Xiomara</h1> 
+  <p>Herramientas de Programación I · Grado 10°</p> 
+ 
+  <hr> 
+ 
+  <h2>Nuestras clases</h2> 
+  <ul> 
+    <li><a href="CLASE1">Clase 1 — Sobre nosotras (primera página HTML)</a></li> 
+    <li><a href="clase02">Clase 2 — Nuestro proyecto</a></li> 
+    <li><a href="clase03">Clase 3 — Nuestra galería de imágenes</a></li>
+  </ul> 
+ 
+  <h2>Nuestro proyecto</h2> 
+  <p>Desde la clase 2 aquí vivirá nuestra aplicación:</p> 
+  <ul> 
+    <li><a href="index.html">Gestor de tareas (en construcción)</a></li> 
+  </ul> 
+</body> 
+</html>
