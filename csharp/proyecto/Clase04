@@ -1,0 +1,35 @@
+<form>
+  <label for="titulo">tareas</label>
+  <input type="text" id="titulo" name="titulo" required>
+
+  <label for="descripcion">Descripción:</label>
+  <textarea id="descripcion" name="descripcion"></textarea>
+
+  <label for="categoria">Categoría:</label>
+  <select id="categoria" name="categoria">
+    <option value="casa">Casa</option>
+    <option value="colegio">Colegio</option>
+    <option value="personal">Personal</option>
+  </select>
+
+  <p>Estado:</p>
+  <input type="radio" id="pendiente" name="estado" value="pendiente">
+  <label for="pendiente">tarea pendienetes</label>
+  <input type="radio" id="hecha" name="estado" value="hecha">
+  <label for="hecha">tarea hechas</label>
+  </label>
+
+  <button type="submit">Agregar tarea</button>
+</form>
+ <label for="titulo">empresa:</label>
+  <input type="text" id="titulo" name="titulo" required>
+
+  <label for="descripcion">produstos:</label>
+  <textarea id="descripcion" name="descripcion"></textarea>
+
+  <label for="categoria">Categoría:</label>
+  <select id="categoria" name="categoria">
+    <option value="casa">computadores</option>
+    <option value="colegio">Celulares</option>
+    <option value="personal">audifonos</option>
+  </select>
