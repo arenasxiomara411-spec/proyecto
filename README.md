@@ -25,7 +25,7 @@
   <hr>
 
   <p>
-    <a href="tarea1">← Ir al inicio</a>
+    <a href="1:3000/no%20sw?vscode-livepreview=true">← Ir al inicio</a>
   </p>
 
   <p>
