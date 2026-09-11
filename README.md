@@ -25,7 +25,7 @@
   <hr>
 
   <p>
-    <a href="1:3000/no%20sw?vscode-livepreview=true">← Ir al inicio</a>
+    <a href="http://127.0.0.1:3000/tarea1?vscode-livepreview=true">← Ir al inicio</a>
   </p>
 
   <p>
