@@ -25,7 +25,7 @@
   <hr>
 
   <p>
-    <a href="http://127.0.0.1:3000/tarea1?vscode-livepreview=true">← Ir al inicio</a>
+    <a href="http://127.0.0.1:3000/proyecto/clase06?vscode-livepreview=true">← Ir al inicio</a>
   </p>
 
   <p>
